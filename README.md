@@ -1,6 +1,6 @@
 # Pineapple Classification Project
 
-This project aims to classify pineapple images into two categories: raw or ripe. The goal is to develop a model that can accurately predict whether a pineapple image is raw or ripe.
+This project aims to classify pineapple images into raw or ripe. The goal is to develop a model that can accurately predict whether a pineapple image is raw or ripe.
 
 ## Dataset
 
