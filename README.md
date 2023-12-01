@@ -19,13 +19,6 @@ To run the project locally, follow these steps:
     ```bash
     git clone https://github.com/your-username/pineapple-classification.git
     ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 Use the following command to run the pineapple classification script:
