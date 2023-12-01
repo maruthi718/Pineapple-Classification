@@ -6,7 +6,7 @@
 
     <h2>Project Overview</h2>
     <p>
-        The aim of this project is to classify pineapple images into raw or ripe. The goal is to develop a model that can accurately predict whether an pineapple image is raw or ripe.
+        This project aims to classify pineapple images into raw or ripe. The goal is to develop a model that can accurately predict whether a pineapple image is raw or ripe.
     </p>
 
     <h2>Dataset</h2>
